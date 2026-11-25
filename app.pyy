@@ -1,0 +1,17 @@
+import streamlit AS ST
+st.write("JGUYGFTUYG")
+st.title("uhf8awefhoauw")
+st.header("augdaysduo")
+st.markdown("GUJGT")
+st.subheader("jhdiu")
+st.caption("jhuaudAWE")
+st.code("x= 2021")
+st.latex(r''' a+a r^1+a r^2+a''')
+
+st.checkbox('YES')
+st.button('Click Me')
+st.radio('Pick your gender', ['male','female'])
+st.selectbox('pick a fruit', ['apple', 'orange', 'banana'])
+st.multiselect('choose a planet', ['jupiter', 'mars', 'venus'])
+st.select_slider('pick a mark', ['bad', 'good', 'amazing'])
+st.slider('pick a number', 0, 10)
